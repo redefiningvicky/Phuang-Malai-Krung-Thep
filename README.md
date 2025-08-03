@@ -1,4 +1,4 @@
-# 🌼 Phuang-Malai-Krung-Thep
+# 🌼 Phuang Malai Krung Thep
 ## 🎯 Objective <br>
 This project <p>
 ## 🛠️ Tools <br>
