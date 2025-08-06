@@ -1,6 +1,6 @@
 # 🌼 Phuang Malai Krung Thep
 ## 🎯 Objective <br>
-This project <p>
+This project communicates Thailand’s cultural connection to water and climate challenges through visual design, photography, writing, and mapping to illustrate urban resilience concepts. <p>
 ## 🛠️ Tools <br>
 • <b>Design:</b> Canva <p>
 • <b>Other:</b> Photography, Writing <p>
