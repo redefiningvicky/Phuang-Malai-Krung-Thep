@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <h1>🌼 Phuang Malai Krung Thep</h1>
@@ -130,9 +129,9 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/Phuang_Malai_Krung_Thep_Blog.png">
+      <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/11_PMKT_Blogspot/Phuang_Malai_Krung_Thep_Blogspot.png">
         <img
-          src="Phuang_Malai_Krung_Thep_Blog.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/11_PMKT_Blogspot/Phuang_Malai_Krung_Thep_Blogspot.png"
           alt="Phuang Malai Krung Thep website screenshot"
           width="100%"
         />
@@ -152,7 +151,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/01_PMKT_247_Life/PMKT_247%20Life_Pamphlet_P1.png">
         <img
-          src="01_PMKT_247_Life/PMKT_247%20Life_Pamphlet_P1.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/01_PMKT_247_Life/PMKT_247%20Life_Pamphlet_P1.png"
           alt="24/7 Life pamphlet page 1"
           width="100%"
         />
@@ -168,7 +167,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/01_PMKT_247_Life/PMKT_247%20Life_Pamphlet_P2.png">
         <img
-          src="01_PMKT_247_Life/PMKT_247%20Life_Pamphlet_P2.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/01_PMKT_247_Life/PMKT_247%20Life_Pamphlet_P2.png"
           alt="24/7 Life pamphlet page 2"
           width="100%"
         />
@@ -184,7 +183,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/01_PMKT_247_Life/PMKT_247_Life_Map.png">
         <img
-          src="01_PMKT_247_Life/PMKT_247_Life_Map.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/01_PMKT_247_Life/PMKT_247_Life_Map.png"
           alt="24/7 Life map"
           width="100%"
         />
@@ -204,7 +203,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/02_PMKT_Ayutthaya_Kingdom/PMKT_Ayutthaya_Kingdom_Pamphlet_P1.png">
         <img
-          src="02_PMKT_Ayutthaya_Kingdom/PMKT_Ayutthaya_Kingdom_Pamphlet_P1.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/02_PMKT_Ayutthaya_Kingdom/PMKT_Ayutthaya_Kingdom_Pamphlet_P1.png"
           alt="Ayutthaya Kingdom pamphlet page 1"
           width="100%"
         />
@@ -220,7 +219,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/02_PMKT_Ayutthaya_Kingdom/PMKT_Ayutthaya_Kingdom_Pamphlet_P2.png">
         <img
-          src="02_PMKT_Ayutthaya_Kingdom/PMKT_Ayutthaya_Kingdom_Pamphlet_P2.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/02_PMKT_Ayutthaya_Kingdom/PMKT_Ayutthaya_Kingdom_Pamphlet_P2.png"
           alt="Ayutthaya Kingdom pamphlet page 2"
           width="100%"
         />
@@ -236,7 +235,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/02_PMKT_Ayutthaya_Kingdom/PMKT_Ayutthaya_Kingdom_Pamphlet_P3.png">
         <img
-          src="02_PMKT_Ayutthaya_Kingdom/PMKT_Ayutthaya_Kingdom_Pamphlet_P3.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/02_PMKT_Ayutthaya_Kingdom/PMKT_Ayutthaya_Kingdom_Pamphlet_P3.png"
           alt="Ayutthaya Kingdom pamphlet page 3"
           width="100%"
         />
@@ -252,7 +251,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/02_PMKT_Ayutthaya_Kingdom/PMKT_Ayutthaya_Kingdom_Map.png">
         <img
-          src="02_PMKT_Ayutthaya_Kingdom/PMKT_Ayutthaya_Kingdom_Map.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/02_PMKT_Ayutthaya_Kingdom/PMKT_Ayutthaya_Kingdom_Map.png"
           alt="Ayutthaya Kingdom map"
           width="100%"
         />
@@ -272,7 +271,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/03_PMKT_Koh_Chang_Eco_Tourism/PMKT_Koh_Chang_Eco_Tourism_Pamphlet_P1.png">
         <img
-          src="03_PMKT_Koh_Chang_Eco_Tourism/PMKT_Koh_Chang_Eco_Tourism_Pamphlet_P1.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/03_PMKT_Koh_Chang_Eco_Tourism/PMKT_Koh_Chang_Eco_Tourism_Pamphlet_P1.png"
           alt="Koh Chang Eco-Tourism pamphlet page 1"
           width="100%"
         />
@@ -288,7 +287,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/03_PMKT_Koh_Chang_Eco_Tourism/PMKT_Koh_Chang_Eco_Tourism_Pamphlet_P2.png">
         <img
-          src="03_PMKT_Koh_Chang_Eco_Tourism/PMKT_Koh_Chang_Eco_Tourism_Pamphlet_P2.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/03_PMKT_Koh_Chang_Eco_Tourism/PMKT_Koh_Chang_Eco_Tourism_Pamphlet_P2.png"
           alt="Koh Chang Eco-Tourism pamphlet page 2"
           width="100%"
         />
@@ -304,7 +303,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/03_PMKT_Koh_Chang_Eco_Tourism/PMKT_Koh_Chang_Eco_Tourism_Pamphlet_P3.png">
         <img
-          src="03_PMKT_Koh_Chang_Eco_Tourism/PMKT_Koh_Chang_Eco_Tourism_Pamphlet_P3.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/03_PMKT_Koh_Chang_Eco_Tourism/PMKT_Koh_Chang_Eco_Tourism_Pamphlet_P3.png"
           alt="Koh Chang Eco-Tourism pamphlet page 3"
           width="100%"
         />
@@ -320,7 +319,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/03_PMKT_Koh_Chang_Eco_Tourism/PMKT_Koh_Chang_Eco_Tourism_Map.png">
         <img
-          src="03_PMKT_Koh_Chang_Eco_Tourism/PMKT_Koh_Chang_Eco_Tourism_Map.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/03_PMKT_Koh_Chang_Eco_Tourism/PMKT_Koh_Chang_Eco_Tourism_Map.png"
           alt="Koh Chang Eco-Tourism map"
           width="100%"
         />
@@ -340,7 +339,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/04_PMKT_Lessons_from_Jasmine/PMKT_Lessons_from_Jasmine_Pamphlet_P1.png">
         <img
-          src="04_PMKT_Lessons_from_Jasmine/PMKT_Lessons_from_Jasmine_Pamphlet_P1.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/04_PMKT_Lessons_from_Jasmine/PMKT_Lessons_from_Jasmine_Pamphlet_P1.png"
           alt="Lessons from Jasmine pamphlet page 1"
           width="100%"
         />
@@ -356,7 +355,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/04_PMKT_Lessons_from_Jasmine/PMKT_Lessons_from_Jasmine_Pamphlet_P2.png">
         <img
-          src="04_PMKT_Lessons_from_Jasmine/PMKT_Lessons_from_Jasmine_Pamphlet_P2.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/04_PMKT_Lessons_from_Jasmine/PMKT_Lessons_from_Jasmine_Pamphlet_P2.png"
           alt="Lessons from Jasmine pamphlet page 2"
           width="100%"
         />
@@ -372,7 +371,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/04_PMKT_Lessons_from_Jasmine/PMKT_Lessons_from_Jasmine_Pamphlet_P3.png">
         <img
-          src="04_PMKT_Lessons_from_Jasmine/PMKT_Lessons_from_Jasmine_Pamphlet_P3.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/04_PMKT_Lessons_from_Jasmine/PMKT_Lessons_from_Jasmine_Pamphlet_P3.png"
           alt="Lessons from Jasmine pamphlet page 3"
           width="100%"
         />
@@ -388,7 +387,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/04_PMKT_Lessons_from_Jasmine/PMKT_Lessons_from_Jasmine_Map.png">
         <img
-          src="04_PMKT_Lessons_from_Jasmine/PMKT_Lessons_from_Jasmine_Map.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/04_PMKT_Lessons_from_Jasmine/PMKT_Lessons_from_Jasmine_Map.png"
           alt="Lessons from Jasmine map"
           width="100%"
         />
@@ -408,7 +407,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/05_PMKT_Rooted_in_Water/PMKT_Rooted_in_Water_Pamphlet_P1.png">
         <img
-          src="05_PMKT_Rooted_in_Water/PMKT_Rooted_in_Water_Pamphlet_P1.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/05_PMKT_Rooted_in_Water/PMKT_Rooted_in_Water_Pamphlet_P1.png"
           alt="Rooted in Water pamphlet page 1"
           width="100%"
         />
@@ -424,7 +423,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/05_PMKT_Rooted_in_Water/PMKT_Rooted_in_Water_Pamphlet_P2.png">
         <img
-          src="05_PMKT_Rooted_in_Water/PMKT_Rooted_in_Water_Pamphlet_P2.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/05_PMKT_Rooted_in_Water/PMKT_Rooted_in_Water_Pamphlet_P2.png"
           alt="Rooted in Water pamphlet page 2"
           width="100%"
         />
@@ -440,7 +439,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/05_PMKT_Rooted_in_Water/PMKT_Rooted_in_Water_Pamphlet_P3.png">
         <img
-          src="05_PMKT_Rooted_in_Water/PMKT_Rooted_in_Water_Pamphlet_P3.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/05_PMKT_Rooted_in_Water/PMKT_Rooted_in_Water_Pamphlet_P3.png"
           alt="Rooted in Water pamphlet page 3"
           width="100%"
         />
@@ -456,7 +455,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/05_PMKT_Rooted_in_Water/PMKT_Rooted_in_Water_Map.png">
         <img
-          src="05_PMKT_Rooted_in_Water/PMKT_Rooted_in_Water_Map.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/05_PMKT_Rooted_in_Water/PMKT_Rooted_in_Water_Map.png"
           alt="Rooted in Water map"
           width="100%"
         />
@@ -476,7 +475,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/06_PMKT_Sacred_Third_Spaces/PMKT_Sacred_Third_Spaces_Trifold_1.png">
         <img
-          src="06_PMKT_Sacred_Third_Spaces/PMKT_Sacred_Third_Spaces_Trifold_1.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/06_PMKT_Sacred_Third_Spaces/PMKT_Sacred_Third_Spaces_Trifold_1.png"
           alt="Sacred Third Spaces trifold 1"
           width="100%"
         />
@@ -492,7 +491,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/06_PMKT_Sacred_Third_Spaces/PMKT_Sacred_Third_Spaces_Trifold_2.png">
         <img
-          src="06_PMKT_Sacred_Third_Spaces/PMKT_Sacred_Third_Spaces_Trifold_2.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/06_PMKT_Sacred_Third_Spaces/PMKT_Sacred_Third_Spaces_Trifold_2.png"
           alt="Sacred Third Spaces trifold 2"
           width="100%"
         />
@@ -508,7 +507,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/06_PMKT_Sacred_Third_Spaces/PMKT_Sacred_Third_Spaces_Trifold_3.png">
         <img
-          src="06_PMKT_Sacred_Third_Spaces/PMKT_Sacred_Third_Spaces_Trifold_3.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/06_PMKT_Sacred_Third_Spaces/PMKT_Sacred_Third_Spaces_Trifold_3.png"
           alt="Sacred Third Spaces trifold 3"
           width="100%"
         />
@@ -524,7 +523,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/06_PMKT_Sacred_Third_Spaces/PMKT_Sacred_Third_Spaces_Trifold_4.png">
         <img
-          src="06_PMKT_Sacred_Third_Spaces/PMKT_Sacred_Third_Spaces_Trifold_4.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/06_PMKT_Sacred_Third_Spaces/PMKT_Sacred_Third_Spaces_Trifold_4.png"
           alt="Sacred Third Spaces trifold 4"
           width="100%"
         />
@@ -540,7 +539,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/06_PMKT_Sacred_Third_Spaces/PMKT_Sacred_Third_Spaces_Map.png">
         <img
-          src="06_PMKT_Sacred_Third_Spaces/PMKT_Sacred_Third_Spaces_Map.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/06_PMKT_Sacred_Third_Spaces/PMKT_Sacred_Third_Spaces_Map.png"
           alt="Sacred Third Spaces map"
           width="100%"
         />
@@ -560,7 +559,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/07_PMKT_theCommons/PMKT_theCommons_Pamphlet_P1.png">
         <img
-          src="07_PMKT_theCommons/PMKT_theCommons_Pamphlet_P1.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/07_PMKT_theCommons/PMKT_theCommons_Pamphlet_P1.png"
           alt="theCommons pamphlet page 1"
           width="100%"
         />
@@ -576,7 +575,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/07_PMKT_theCommons/PMKT_theCommons_Pamphlet_P2.png">
         <img
-          src="07_PMKT_theCommons/PMKT_theCommons_Pamphlet_P2.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/07_PMKT_theCommons/PMKT_theCommons_Pamphlet_P2.png"
           alt="theCommons pamphlet page 2"
           width="100%"
         />
@@ -592,7 +591,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/07_PMKT_theCommons/PMKT_theCommons_Pamphlet_P3.png">
         <img
-          src="07_PMKT_theCommons/PMKT_theCommons_Pamphlet_P3.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/07_PMKT_theCommons/PMKT_theCommons_Pamphlet_P3.png"
           alt="theCommons pamphlet page 3"
           width="100%"
         />
@@ -608,7 +607,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/07_PMKT_theCommons/PMKT_theCommons_Map.png">
         <img
-          src="07_PMKT_theCommons/PMKT_theCommons_Map.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/07_PMKT_theCommons/PMKT_theCommons_Map.png"
           alt="theCommons map"
           width="100%"
         />
@@ -628,7 +627,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_1.png">
         <img
-          src="08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_1.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_1.png"
           alt="Benjakitti Forest Park pamphlet 1"
           width="100%"
         />
@@ -644,7 +643,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_2.png">
         <img
-          src="08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_2.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_2.png"
           alt="Benjakitti Forest Park pamphlet 2"
           width="100%"
         />
@@ -660,7 +659,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_3.png">
         <img
-          src="08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_3.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_3.png"
           alt="Benjakitti Forest Park pamphlet 3"
           width="100%"
         />
@@ -676,7 +675,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_4.png">
         <img
-          src="08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_4.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_4.png"
           alt="Benjakitti Forest Park pamphlet 4"
           width="100%"
         />
@@ -692,7 +691,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_5.png">
         <img
-          src="08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_5.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_5.png"
           alt="Benjakitti Forest Park pamphlet 5"
           width="100%"
         />
@@ -708,7 +707,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_6.png">
         <img
-          src="08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_6.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_6.png"
           alt="Benjakitti Forest Park pamphlet 6"
           width="100%"
         />
@@ -724,7 +723,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_7.png">
         <img
-          src="08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_7.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_7.png"
           alt="Benjakitti Forest Park pamphlet 7"
           width="100%"
         />
@@ -740,7 +739,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_8.png">
         <img
-          src="08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_8.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_8.png"
           alt="Benjakitti Forest Park pamphlet 8"
           width="100%"
         />
@@ -756,7 +755,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_9.png">
         <img
-          src="08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_9.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_9.png"
           alt="Benjakitti Forest Park pamphlet 9"
           width="100%"
         />
@@ -772,7 +771,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_10.png">
         <img
-          src="08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_10.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_10.png"
           alt="Benjakitti Forest Park pamphlet 10"
           width="100%"
         />
@@ -788,7 +787,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_11.png">
         <img
-          src="08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_11.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_11.png"
           alt="Benjakitti Forest Park pamphlet 11"
           width="100%"
         />
@@ -804,7 +803,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_12.png">
         <img
-          src="08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_12.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_12.png"
           alt="Benjakitti Forest Park pamphlet 12"
           width="100%"
         />
@@ -820,7 +819,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Map.png">
         <img
-          src="08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Map.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Map.png"
           alt="Benjakitti Forest Park map"
           width="100%"
         />
@@ -840,7 +839,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/09_PMKT_Water/PMKT_Water_Pamphlet_P1.png">
         <img
-          src="09_PMKT_Water/PMKT_Water_Pamphlet_P1.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/09_PMKT_Water/PMKT_Water_Pamphlet_P1.png"
           alt="Water pamphlet page 1"
           width="100%"
         />
@@ -856,7 +855,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/09_PMKT_Water/PMKT_Water_Pamphlet_P2.png">
         <img
-          src="09_PMKT_Water/PMKT_Water_Pamphlet_P2.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/09_PMKT_Water/PMKT_Water_Pamphlet_P2.png"
           alt="Water pamphlet page 2"
           width="100%"
         />
@@ -872,7 +871,7 @@
     <td>
       <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/09_PMKT_Water/PMKT_Water_Map.png">
         <img
-          src="09_PMKT_Water/PMKT_Water_Map.png"
+          src="https://media.githubusercontent.com/media/redefiningvicky/Phuang-Malai-Krung-Thep/main/09_PMKT_Water/PMKT_Water_Map.png"
           alt="Water map"
           width="100%"
         />
