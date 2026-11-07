@@ -74,7 +74,7 @@
 <h2 id="design-files">📂 Design Files</h2>
 
 <h4>
-  1 — 24/7 Life: Finding Comfort in Thailand's 7-Elevens
+  1 — 24/7 Life
   &nbsp; • &nbsp;
   <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/tree/main/01_PMKT_247_Life">View Folder</a>
   &nbsp; • &nbsp;
