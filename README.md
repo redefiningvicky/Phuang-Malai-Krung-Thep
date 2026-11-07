@@ -47,7 +47,7 @@
 
 <h2 id="designs">🎨 Designs</h2>
 
-<ul>
+<ol>
   <li>24/7 Life: Finding Comfort in Thailand’s 7-Elevens</li>
   <li>Ayutthaya Kingdom</li>
   <li>Koh Chang Eco-Tourism</li>
@@ -57,7 +57,7 @@
   <li>theCommons</li>
   <li>Urban Ecological Resilience of Benjakitti Forest Park (Phase II)</li>
   <li>Water</li>
-</ul>
+</ol>
 
 <hr>
 
@@ -73,113 +73,77 @@
 
 <h2 id="design-files">📂 Design Files</h2>
 
-<h3>01 — 24/7 Life: Finding Comfort in Thailand's 7-Elevens</h3>
-
-<p>
-  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/tree/main/01_PMKT_247_Life">
-    View Folder
-  </a>
+<h4>
+  1 — 24/7 Life: Finding Comfort in Thailand's 7-Elevens
   &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/01_PMKT_247_Life/PMKT_247%20Life_Pamphlet_RGB.pdf">
-    View PDF
-  </a>
-</p>
-
-<h3>02 — Ayutthaya Kingdom</h3>
-
-<p>
-  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/tree/main/02_PMKT_Ayutthaya_Kingdom">
-    View Folder
-  </a>
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/tree/main/01_PMKT_247_Life">View Folder</a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/02_PMKT_Ayutthaya_Kingdom/PMKT_Ayutthaya_Kingdom_Pamphlet_RGB.pdf">
-    View PDF
-  </a>
-</p>
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/01_PMKT_247_Life/PMKT_247%20Life_Pamphlet_RGB.pdf">View PDF</a>
+</h4>
 
-<h3>03 — Koh Chang Eco-Tourism</h3>
-
-<p>
-  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/tree/main/03_PMKT_Koh_Chang_Eco_Tourism">
-    View Folder
-  </a>
+<h4>
+  2 — Ayutthaya Kingdom
   &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/03_PMKT_Koh_Chang_Eco_Tourism/PMKT_Koh_Chang_Eco_Tourism_Pamphlet_RGB.pdf">
-    View PDF
-  </a>
-</p>
-
-<h3>04 — Lessons from Jasmine</h3>
-
-<p>
-  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/tree/main/04_PMKT_Lessons_from_Jasmine">
-    View Folder
-  </a>
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/tree/main/02_PMKT_Ayutthaya_Kingdom">View Folder</a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/04_PMKT_Lessons_from_Jasmine/PMKT_Lessons_from_Jasmine_Pamphlet_RGB.pdf">
-    View PDF
-  </a>
-</p>
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/02_PMKT_Ayutthaya_Kingdom/PMKT_Ayutthaya_Kingdom_Pamphlet_RGB.pdf">View PDF</a>
+</h4>
 
-<h3>05 — Rooted in Water</h3>
-
-<p>
-  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/tree/main/05_PMKT_Rooted_in_Water">
-    View Folder
-  </a>
+<h4>
+  3 — Koh Chang Eco-Tourism
   &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/05_PMKT_Rooted_in_Water/PMKT_Rooted_in_Water_Pamphlet_RGB.pdf">
-    View PDF
-  </a>
-</p>
-
-<h3>06 — Sacred Third Spaces</h3>
-
-<p>
-  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/tree/main/06_PMKT_Sacred_Third_Spaces">
-    View Folder
-  </a>
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/tree/main/03_PMKT_Koh_Chang_Eco_Tourism">View Folder</a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/06_PMKT_Sacred_Third_Spaces/PMKT_Sacred_Third_Spaces_Trifold_RGB.pdf">
-    View PDF
-  </a>
-</p>
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/03_PMKT_Koh_Chang_Eco_Tourism/PMKT_Koh_Chang_Eco_Tourism_Pamphlet_RGB.pdf">View PDF</a>
+</h4>
 
-<h3>07 — theCommons</h3>
-
-<p>
-  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/tree/main/07_PMKT_theCommons">
-    View Folder
-  </a>
+<h4>
+  4 — Lessons from Jasmine
   &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/07_PMKT_theCommons/PMKT_theCommons_Pamphlet_RGB.pdf">
-    View PDF
-  </a>
-</p>
-
-<h3>08 — Urban Ecological Resilience of Benjakitti Forest Park (Phase II)</h3>
-
-<p>
-  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/tree/main/08_PMKT_Benjakitti_Forest_Park">
-    View Folder
-  </a>
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/tree/main/04_PMKT_Lessons_from_Jasmine">View Folder</a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_RGB.pdf">
-    View PDF
-  </a>
-</p>
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/04_PMKT_Lessons_from_Jasmine/PMKT_Lessons_from_Jasmine_Pamphlet_RGB.pdf">View PDF</a>
+</h4>
 
-<h3>09 — Water</h3>
-
-<p>
-  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/tree/main/09_PMKT_Water">
-    View Folder
-  </a>
+<h4>
+  5 — Rooted in Water
   &nbsp; • &nbsp;
-  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/09_PMKT_Water/PMKT_Water_Pamphlet_RGB.pdf">
-    View PDF
-  </a>
-</p>
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/tree/main/05_PMKT_Rooted_in_Water">View Folder</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/05_PMKT_Rooted_in_Water/PMKT_Rooted_in_Water_Pamphlet_RGB.pdf">View PDF</a>
+</h4>
+
+<h4>
+  6 — Sacred Third Spaces
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/tree/main/06_PMKT_Sacred_Third_Spaces">View Folder</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/06_PMKT_Sacred_Third_Spaces/PMKT_Sacred_Third_Spaces_Trifold_RGB.pdf">View PDF</a>
+</h4>
+
+<h4>
+  7 — theCommons
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/tree/main/07_PMKT_theCommons">View Folder</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/07_PMKT_theCommons/PMKT_theCommons_Pamphlet_RGB.pdf">View PDF</a>
+</h4>
+
+<h4>
+  8 — Urban Ecological Resilience of Benjakitti Forest Park (Phase II)
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/tree/main/08_PMKT_Benjakitti_Forest_Park">View Folder</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/08_PMKT_Benjakitti_Forest_Park/PMKT_Benjakitti_Forest_Park_Pamphlet_RGB.pdf">View PDF</a>
+</h4>
+
+<h4>
+  9 — Water
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/tree/main/09_PMKT_Water">View Folder</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/Phuang-Malai-Krung-Thep/blob/main/09_PMKT_Water/PMKT_Water_Pamphlet_RGB.pdf">View PDF</a>
+</h4>
 
 <hr>
 
