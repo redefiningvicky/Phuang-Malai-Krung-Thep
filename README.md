@@ -176,7 +176,7 @@
 
 <hr>
 
-<h3>01 — 24/7 Life: Finding Comfort in Thailand's 7-Elevens</h3>
+<h3>1 — 24/7 Life: Finding Comfort in Thailand's 7-Elevens</h3>
 
 <h4>24/7 Life — Pamphlet Page 1</h4>
 
@@ -228,7 +228,7 @@
 
 <hr>
 
-<h3>02 — Ayutthaya Kingdom</h3>
+<h3>2 — Ayutthaya Kingdom</h3>
 
 <h4>Ayutthaya Kingdom — Pamphlet Page 1</h4>
 
@@ -296,7 +296,7 @@
 
 <hr>
 
-<h3>03 — Koh Chang Eco-Tourism</h3>
+<h3>3 — Koh Chang Eco-Tourism</h3>
 
 <h4>Koh Chang Eco-Tourism — Pamphlet Page 1</h4>
 
@@ -364,7 +364,7 @@
 
 <hr>
 
-<h3>04 — Lessons from Jasmine</h3>
+<h3>4 — Lessons from Jasmine</h3>
 
 <h4>Lessons from Jasmine — Pamphlet Page 1</h4>
 
@@ -432,7 +432,7 @@
 
 <hr>
 
-<h3>05 — Rooted in Water</h3>
+<h3>5 — Rooted in Water</h3>
 
 <h4>Rooted in Water — Pamphlet Page 1</h4>
 
@@ -500,7 +500,7 @@
 
 <hr>
 
-<h3>06 — Sacred Third Spaces</h3>
+<h3>6 — Sacred Third Spaces</h3>
 
 <h4>Sacred Third Spaces — Trifold 1</h4>
 
@@ -584,7 +584,7 @@
 
 <hr>
 
-<h3>07 — theCommons</h3>
+<h3>7 — theCommons</h3>
 
 <h4>theCommons — Pamphlet Page 1</h4>
 
@@ -652,7 +652,7 @@
 
 <hr>
 
-<h3>08 — Urban Ecological Resilience of Benjakitti Forest Park (Phase II)</h3>
+<h3>8 — Urban Ecological Resilience of Benjakitti Forest Park (Phase II)</h3>
 
 <h4>Benjakitti Forest Park — Pamphlet 1</h4>
 
@@ -864,7 +864,7 @@
 
 <hr>
 
-<h3>09 — Water</h3>
+<h3>9 — Water</h3>
 
 <h4>Water — Pamphlet Page 1</h4>
 
