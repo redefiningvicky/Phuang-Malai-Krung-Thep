@@ -50,6 +50,20 @@
   </a>
 </p>
 
+<h3>Designs</h3>
+
+<ul>
+  <li>24/7 Life: Finding Comfort in Thailand’s 7-Elevens</li>
+  <li>Ayutthaya Kingdom</li>
+  <li>Koh Chang Eco-Tourism</li>
+  <li>Lessons from Jasmine</li>
+  <li>Rooted in Water</li>
+  <li>Sacred Third Spaces</li>
+  <li>theCommons</li>
+  <li>Urban Ecological Resilience of Benjakitti Forest Park (Phase II)</li>
+  <li>Water</li>
+</ul>
+
 <hr>
 
 <h2 id="images">🖼️ Images</h2>
